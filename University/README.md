@@ -1,4 +1,3 @@
-# day07-2025-04-25
 # University Workshop Management System
 
 A Spring Boot application for managing university workshops, sessions, and participants.
