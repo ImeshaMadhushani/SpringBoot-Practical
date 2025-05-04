@@ -1,5 +1,3 @@
-# day06-2025-04-11
-
 # Employee Management System
 
 ## Overview
